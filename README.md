@@ -10,7 +10,7 @@
 
 1. Clone repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/juanaxyz/vsm-information-retrieval.git
 cd python-tf-idf-svm
 ```
 
